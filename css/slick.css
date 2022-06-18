@@ -161,4 +161,9 @@
 }
 .slick-dots li.slick-active button {
 	background:#fbca4f;
+}.footer .copy.clearfix .copy_cc span {
+	color: #999;
+}
+span {
+	color: #CCC;
 }
