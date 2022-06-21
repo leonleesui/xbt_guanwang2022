@@ -1884,7 +1884,7 @@ img {
   line-height: 40px;
   overflow: hidden;
 }
-.con_cc .right li span {
+.con_cc .right li span_000 {
 	display: inline-block;
 	width: 79%;
 	height: 40px;
@@ -1904,7 +1904,7 @@ img {
   .con_cc .right li b {
     width: 20%;
   }
-  .con_cc .right li span {
+  .con_cc .right li span_000 {
     width: 75%;
   }
 }
@@ -1917,7 +1917,7 @@ img {
     width: 25%;
     height: auto;
   }
-  .con_cc .right li span {
+  .con_cc .right li span_000 {
 	width: 70%;
 	height: auto;
 	color: #000;
